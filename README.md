@@ -4,7 +4,7 @@ Python implementation of geodesic direct and inverse solutions
 
 References:
 
-* [https://possiblywrong.wordpress.com/2022/07/07/analysis-of-horse-racing-board-game/](https://possiblywrong.wordpress.com/2022/07/07/analysis-of-horse-racing-board-game/)
+* [https://possiblywrong.wordpress.com/2023/09/14/east-of-here/](https://possiblywrong.wordpress.com/2023/09/14/east-of-here/)
 * T. Vincenty (1975) Direct and inverse solutions of geodesics on the
   ellipsoid with application of nested equations, Survey Review,
   23:176, 88-93, with Fortran implementation from
